@@ -242,7 +242,7 @@ SoA</li>
 <td>Quick</td>
 <td>ST Saber</td>
 <td>Solid ST Quick Saber for boss fights</td>
-<td>1-turn evade, quick up, instinct. 3-turn star absorb, atk and def up. NP removes defense buffs and might instakill. Double Art card deck allows for easier NP brave chain NP looping in boss fights with SS setup or SSBride.</td>
+<td>1-turn evade, quick up, instinct. 3-turn star absorb, atk and def up. NP removes defense buffs and might instakill.</td>
 <td>Spookable</td>
 </tr>
 <tr>
