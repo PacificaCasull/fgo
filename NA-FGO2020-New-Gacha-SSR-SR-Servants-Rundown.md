@@ -16,7 +16,7 @@
 – All of these new 2020 servants that get released and aren’t SS farmers - what are they for? What about all those old units that we never used but people say are strong (e.g. Okita, Melt, MHXA, Okita, Tesla, Kiara, etc.) used for? For abusing breakbar CQs and esports.<br>
 – Buster is not dead and actually remains quite alive in the future for boss fights. Strong buster servants generally have immense potential in art card NP gain and buster crits. Buster NP ‘looping’ is indeed a possibility with NP+AA and/or breakbars can be cleared with just facecards.</li>
 <li>Players who only roll for gameplay (aren’t waifu collectors/completionists) and don’t care about either story (both Lostbelt and Events) or event CQ optimized runs (be it esports or budget setups), will find that the game becomes very boring very quickly. There are very few specific must-have servants, and the double Skadi system simply trivializes farming. If you do not intentionally go out of your way to have fun with different farming teams, you will just end just doing the same old double Skadi setup over and over and over again until the end of time. If you do not care about cool CQ runs, then you will just find CQs either too easy to brute force or too annoying to learn the mechanics for. There is little reason to deviate unless you motivate yourself. “Why even farm materials for servants if you’re not going to use them? Why even roll for all these servants both new and old? Why are there so many events one after another, and what is the point?” are common questions.</li>
-<li>Good luck and have fun my friends.</li>
+<li>Good luck and have fun my friends. Cheers, SoA.</li>
 </ol>
 <h1 id="stuff">Stuff</h1>
 <ul>
