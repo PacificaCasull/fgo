@@ -239,7 +239,7 @@ SoA</li>
 <td>Quick</td>
 <td>AoE Berserker</td>
 <td>std AoE berserker</td>
-<td>Generates stars and can increase crit strength by 100% but cannot absorb stars by himself. Notably can ignore invicibility for 3-turns. Buster + quick up for 3-turns. Cannot SS loop.</td>
+<td>Generates stars and can increase crit strength by 100% but cannot absorb stars by himself. Notably can ignore invicibility for 3-turns. Buster + quick up for 3-turns. Cannot SS loop. (Fran still better for farming and can even 3-turn loop with plugsuit).</td>
 <td>Spookable, Lostbelt 3 Part 1</td>
 </tr>
 <tr>
