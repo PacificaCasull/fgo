@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NA FGO 2020 New Gacha Servants Rundown</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="read--first">Read  First</h1>
+---
+
+<h1 id="read--first">Read  First</h1>
 <p>The game direction changes greatly in 2020. Let’s go through some key ideas.</p>
 <ol>
 <li>The developers of the game essentially decided to make a change in game direction: players should not have a hard time farming if they don’t want to. We will give them options - many options. And we will instead focus on story and gameplay versatility. Lower the HP values of enemies. Make almost all battles have two or three enemies per roon so refund is possible. If you want to braindead SS farm you can. If you want to do standard buster farming, you can. If you want to arts loop, you can. If you want to facecard, you can. This change takes time to manifest and finally arrives with Annversary Skadi release.</li>
@@ -322,7 +316,4 @@
 <td>Spookable</td>
 </tr>
 </tbody>
-</table></div>
-</body>
-
-</html>
+</table>
