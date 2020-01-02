@@ -22,9 +22,7 @@ SoA</li>
 </ol>
 <h1 id="stuff">Stuff</h1>
 <ul>
-<li>SS = double skadi</li>
-<li>SSW = double skadi + waver</li>
-<li>SSBride = double skadi + nerobride</li>
+<li>SS = double skadi | SSW = double skadi + waver | SSBride = double skadi + nerobride</li>
 <li>Surfmo / Jarcher System = setups where mordred rider or jeanne archer triple-NP 3-turn farm</li>
 <li>Facecard efficiency = NP gain and star generation from facecards</li>
 <li>Esports = Completing challenge quest in minimum number of turns. Not to be confused with regular CQ clear. Requires significant amount of planning with assembling arrangement of servants and mathematically computing possibilities of every turn. Usually involves NP looping + mindblowing facecard efficiency + resetting hundreds of attempts to get crits and desired facecards + possibly depending on specific servants to die to cycle in new servants (see below).</li>
