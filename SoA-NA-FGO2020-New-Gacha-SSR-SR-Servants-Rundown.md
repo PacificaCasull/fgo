@@ -185,7 +185,7 @@ SoA</li>
 <td>Quick</td>
 <td>AoE Assassin</td>
 <td>40% battery AoE quick assassin</td>
-<td>Battery makes unit easy to use for standard play. Generally cannot 3-turn SS loop except for specific low-HP enemies free quests - in particular, certain nodes in Lost Belt 2.</td>
+<td>Battery makes unit easy to use for standard play. Generally cannot 3-turn SS loop except for specific low-HP enemies free quests - in particular, certain nodes in Lost Belt 2. Output similar to ScathSin.</td>
 <td>Limited, Summer 2020 Part 1</td>
 </tr>
 <tr>
