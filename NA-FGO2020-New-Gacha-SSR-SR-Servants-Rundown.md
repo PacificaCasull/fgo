@@ -132,7 +132,7 @@ SoA</li>
 <td>Buster</td>
 <td>AoE Alter Ego</td>
 <td>Straightforward buster AoE 30% battery farmer with great facecard efficiency who falls very hard victim to Skadi meta.</td>
-<td>When she was released, JP blogs immediately gave her a S-tier farming rating due to good offensive self-buffs and 30% battery perfect for use with Merlin. This made her a versatile cavalry-killer who compared very favorably with AoE assassins at the time. Unfortunately, the Skadi meta arrives a month later. SS looping completely deprecates 30% battery buster farming in both output and setup simplicity. Furthermore, all three AoE assassins (Cleo, Shuten, Semi), Okitan’s competitors, receive NP strengthenings in the next half year and Okitan’s output falls behind. Animations and very high card efficiency still make Okitan fun to use, especially during Guda events due to bonus.</td>
+<td>When she was released, JP blogs immediately gave her a S-tier farming rating due to good offensive self-buffs and 30% battery perfect for use with Merlin. This made her a versatile cavalry-killer who compared very favorably with AoE assassins at the time. Unfortunately, the Skadi meta arrives a month later. SS looping completely deprecates 30% battery buster farming in both output and setup simplicity. Furthermore, all three AoE assassins (Cleo, Shuten, Semi), Okitan’s competitors, receive NP strengthenings in the next half year and Okitan’s output falls behind. Animations and very high card efficiency still make Okitan fun to use (especially during Guda events due to bonus).</td>
 <td>Limited</td>
 </tr>
 <tr>
