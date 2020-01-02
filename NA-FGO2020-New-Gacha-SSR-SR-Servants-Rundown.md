@@ -232,7 +232,7 @@ SoA</li>
 <td>Arts</td>
 <td>ST Foreigner</td>
 <td>ST 1-Turn Burst DPS Foreigner</td>
-<td>Unlike Abby, who is mainly used as a support, MHXX is a DPS-only ST foreigner with 30% battery. 1-turn 50% attack up, self-invic, instinct, ignore invic, powermod vs other foreigners, mecha liz, enemy Summer BB. NP 150% SE vs Saber-class servants. Used mainly when you just want to have some fun with NP + facecards. Hilariously high theoretical output when both traits land but unfortunately such an enemy doesn’t exist.</td>
+<td>Unlike Abby, who is mainly used as a support, MHXX is a DPS-only ST foreigner with 30% battery. 1-turn 50% attack up, self-invic, instinct, ignore invic, powermod vs other foreigners, mecha liz, enemy Summer BB. NP 150% SE vs Saber-class servants. Used mainly when you just want to have some fun with NP + facecards. Hilariously high theoretical output when both facing saber or berserker class “threat to humanity” but unfortunately such an enemy doesn’t exist.</td>
 <td>Limited</td>
 </tr>
 <tr>
