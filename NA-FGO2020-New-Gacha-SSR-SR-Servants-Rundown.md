@@ -152,7 +152,7 @@ SoA</li>
 <td>Buster</td>
 <td>ST Saber</td>
 <td>Anti-dragon crit saber</td>
-<td>Mostly unused. Low NP output outside of anti-dragon niche. 3-turn crit strength but needs external help with absorbing stars.</td>
+<td>Mostly unused. Compare with Rama. Low NP output outside of anti-dragon niche. 3-turn crit strength but needs external help with absorbing stars.</td>
 <td>Limited</td>
 </tr>
 <tr>
