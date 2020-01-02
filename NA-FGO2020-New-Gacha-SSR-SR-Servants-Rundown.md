@@ -171,7 +171,7 @@ SoA</li>
 <td></td>
 <td>-</td>
 <td>Support Caster</td>
-<td>Double Skadi</td>
+<td>Double Skadi. Skadi + Waver. SSW. SSBride. etc.</td>
 <td>Yeah.</td>
 <td>Limited</td>
 </tr>
