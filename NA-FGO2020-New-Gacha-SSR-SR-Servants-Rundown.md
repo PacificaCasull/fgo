@@ -25,7 +25,7 @@ SoA</li>
 <li>SS = double skadi | SSW = double skadi + waver | SSBride = double skadi + nerobride</li>
 <li>Surfmo System | Jarcher System = setups where mordred rider or jeanne archer 3xNP 3-turn farm</li>
 <li>Facecard efficiency = NP gain and star generation performance of facecards</li>
-<li>Esports = Completing challenge quest in minimum number of turns (contrast with regular clear of CQ). Requires significant amount of planning with assembling arrangement of servants and mathematically computing outputs and possibilities of each turn. Usually involves NP looping + mindblowing facecard efficiency + resetting hundreds of attempts to get crits and desired facecards + possibly depending on specific servants to die to cycle in new servants (see below).</li>
+<li>Esports = Completing challenge quest in minimum number of turns (contrast with regular clear of CQ). Requires significant amount of planning with assembling arrangement of servants and mathematically computing outputs and possibilities of each turn. Usually involves NP looping + extreme facecard efficiency + resetting hundreds of attempts to get crits and desired facecards + possibly depending on specific servants to die to cycle in new servants (see below).</li>
 <li>Esports-ready support: level 1 or min-ascension CQ-focused supports with crucial skills unlocked and max skilled. Minimize HP to improve chance of dying to enemy attacks. e.g. lvl1 Abigail, lvl1 Sherlock, lvl50 3rd-ascension Chiron, lvl50 2nd-ascension Nerobride, etc.</li>
 </ul>
 <h3 id="last-updated-2020-01-01.-note-that-there-are-a-lot-of-banners-for-old-servants-this-year.">Last updated 2020-01-01. Note that there are a lot of banners for old servants this year.</h3>
