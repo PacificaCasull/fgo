@@ -4,9 +4,9 @@
 ---
 
 <h1 id="read--first">Read  First</h1>
-<p>The game direction greatly changes midway through 2020. Let’s go through some key ideas.</p>
+<p>The game direction changes midway through 2020. Let’s go through some key ideas.</p>
 <ol>
-<li>The developers of the game essentially decided to make a change in game direction: players should not have a hard time farming if they don’t want to. We will give them options - many options. And we will instead focus on story and gameplay versatility. Lower the HP values of enemies. Make almost all battles have two or three enemies per roon so refund is possible. If you want to braindead SS farm you can. If you want to do standard buster farming, you can. If you want to arts loop, you can. If you want to facecard, you can. This change takes time to manifest and arrives with Lostbelt &amp; Annversary Skadi &amp; Summer Event.</li>
+<li>The developers of the game essentially decided to make a change in game direction: players should not have a hard time farming if they don’t want to. Give players options - many options. And instead focus on story and gameplay versatility. Lower the HP values of enemies. Make almost all battles have two or three enemies per room so refund is possible. If you want to braindead SS farm you can. If you want to do standard buster farming, you can. If you want to arts loop, you can (paracelsus strengthening). If you want to facecard, you can. This change takes time to manifest and arrives with Lostbelt &amp; Annversary Skadi &amp; new Summer Event.</li>
 <li>A strong focus on both Lostbelt story and Event story. Hype.</li>
 <li>Minor note - story fights will generally be a pushover until Lostbelt 3 16-1.</li>
 <li>A focus on event challenge quest design. Event challenge quests will be generally easy to complete <em>if you know the mechanics</em>, and rewarding to min-turn with various units. Naturally, if you don’t have the time to care about CQs, that’s totally fine too.<br>
