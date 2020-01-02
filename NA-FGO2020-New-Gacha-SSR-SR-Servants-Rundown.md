@@ -152,7 +152,7 @@ SoA</li>
 <td>Buster</td>
 <td>ST Saber</td>
 <td>Anti-dragon crit saber</td>
-<td>Glorified Rama, but at least Rama specifically kills demonic bicorns.</td>
+<td>Mostly unused. Low NP output outside of anti-dragon niche. 3-turn crit strength but needs external help with absorbing stars.</td>
 <td>Limited</td>
 </tr>
 <tr>
