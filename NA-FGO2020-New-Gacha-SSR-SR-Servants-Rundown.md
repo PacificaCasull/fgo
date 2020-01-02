@@ -162,7 +162,7 @@ SoA</li>
 <td>Quick</td>
 <td>AoE Lancer</td>
 <td>Top tier double Skadi farming lancer</td>
-<td>Usage is equivalent to Parvati. Higher inherent refund than Parvati. Higher W2 output than Parvati but lower W3 output: this is because Parvati’s output is tied to her 1-turn attack buff - Valk has higher output than Parvati when that attack-buff is not activated. In practice, this tradeoff simply dictates where you use your two Skadi’s def-downs to get equivalent output. With Valk, you use two def-downs on W3. With Parv, you use one def-down on W2 and one def-down on W3.</td>
+<td>Usage is interchangeable with Parvati. Higher inherent refund than Parvati. Higher W2 output than Parvati but lower W3 output. (Parvati’s W3 output is tied to her 1-turn attack buff; Valk has higher output than Parvati when that attack-buff is not activated.) In practice, this tradeoff simply dictates where you use your two Skadi’s def-downs to get equivalent output. With Valk, you use two def-downs on W3. With Parv, you use one def-down on W2 and one def-down on W3.</td>
 <td>Spookable</td>
 </tr>
 <tr>
