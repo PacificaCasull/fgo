@@ -54,8 +54,8 @@ SoA</li>
 <td>AoE Foreigner</td>
 <td>Default challenge quest arts-team AoE DPS for the next two years.</td>
 <td>See CQ? Use Hokusai if you don’t care about esports (min-turning) and just want easy time. Note that most CQs in the future are AoE. Anti-‘man’-attribute SE applies to both servants and trashmobs. Does not care what class the enemies are since she takes neutral damage. Stacking defense-down with arts attacks. 30% battery, ~10% refund per enemy before buffs. Slow and steady refund NP loop.</td>
-<td>Limited</td>
-<td>New Year 2020</td>
+<td>Limited, New Year 2020</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=199"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/5/5f/Icon_Servant_199.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -65,8 +65,8 @@ SoA</li>
 <td>AoE Assassin</td>
 <td>Well-balanced AoE assassin. Low NP output until NP strengthening in one year.</td>
 <td>Buster NP and 30% battery fit with Merlin for farming. Strong hybrid defensive team kit similar in a way to Ereshkigal. Decent NP gain, stargen, facecards. Triple Arts caster deck makes her a candidate for “buster loop” memes. Second skill makes her neutral versus casters (takes neutral damage, does neutral damage), which makes her versatile for working through multi-class AoE CQs without worrying about class weakness. NP output is disappointing until strengthening in 2021, which makes it acceptable. Still obviously much weaker than Shuten for 3-turn farming even after strengthening. Better than Shuten in other environments. Generally favored over Cleopatra except for facecard efficiency. Battery requires 8 crit stars, but requirement is usually easy to fulfill.</td>
-<td>Limited</td>
-<td>Valentines 2020</td>
+<td>Limited, Valentines 2020</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=200"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/Icon_Servant_200.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -76,8 +76,8 @@ SoA</li>
 <td>ST Archer</td>
 <td>Doesn’t have a second banner yet.</td>
 <td>ST archer used mainly for boss fights. 3-turn buster up, ignore evade, buff block, defensive skills. High base crit strength.</td>
-<td>Limited</td>
-<td>KnK Rerun</td>
+<td>Limited, KnK Rerun</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=201"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/AnastasiaIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -87,8 +87,8 @@ SoA</li>
 <td>AoE Caster</td>
 <td>Archetypical Arts caster looper. Non-limited, will spook.</td>
 <td>A greatly improved Da Vinci caster. 50% battery. Good 3-turn NP refund loop farming with proper team setup. Party charisma, invicibility pierce, unique self arts-up. Enemy attack down, skill seal, stun. No imperative need to roll hard for due to non-limited status and upcoming SS focused meta. Toptier non-limited spookable servant.</td>
-<td>Spookable</td>
-<td>Lostbelt 1 Banner 1</td>
+<td>Spookable, Lostbelt 1 Banner 1</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=202"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/5/51/AtalantaAlterIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -98,8 +98,8 @@ SoA</li>
 <td>ST Berserker</td>
 <td>1-Turn NP + self-sufficient crit carder + party quick support</td>
 <td>Similar to archer Atalante in having a party-wide 1-turn 50% quick up. Instinct with crit absorb and crit strength together in one kit. Unlike MHX, Melt, Okita, MHXA, etc., generally not known to SS loop even with facecards.</td>
-<td>Spookable</td>
-<td>Lostbelt 1 Banner 1</td>
+<td>Spookable, Lostbelt 1 Banner 1</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=205"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/3/31/IvanIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -109,8 +109,8 @@ SoA</li>
 <td>AoE Rider</td>
 <td>CQ focused AoE Rider</td>
 <td>Strong skills on paper for standard CQ play in NP gain, debuff removal, stars/turn, invicibility, enemy buff removal, enemy attack down, 3-turn buster-up, etc. Unfortunately lack of party buffs and battery makes him a poor candidate for both farming as well as CQ min-turns.</td>
-<td>Limited</td>
-<td>Lostbelt 1 Banner 2</td>
+<td>Limited, Lostbelt 1 Banner 2</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=206"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/3/38/AchillesIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -120,8 +120,8 @@ SoA</li>
 <td>AoE Rider</td>
 <td>Versatile double Skadi Rider. Spookable.</td>
 <td>Well designed kit with versatile skills. 3-turn quick and crit str buffs, invicibility, defense-up, taunt, 30% battery. A popular double Skadi looper for farming, but refund is very tight. Looping is totally dependent on the battery / mystic code and may sometimes fail. Quite dominant in CQs.</td>
-<td>Spookable</td>
-<td>Apocrypha</td>
+<td>Spookable, Apocrypha</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=206"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/1/17/ChironIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -131,8 +131,8 @@ SoA</li>
 <td>ST Archer</td>
 <td>Important support for CQ esports. Not relevant otherwise.</td>
 <td>Used very often in esports solely as a support due to extremely powerful party 50% crit-up, targeted 3-turn buster+quick+arts up. NP removes enemy defense buffs. Not particular relevant outside of esports.</td>
-<td>Spookable</td>
-<td>Apocrypha</td>
+<td>Spookable, Apocrypha</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=209"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/e/e7/Icon_S209.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -142,8 +142,8 @@ SoA</li>
 <td>AoE Alter Ego</td>
 <td>Straightforward buster AoE 30% battery farmer with great facecard efficiency who falls very hard victim to Skadi meta.</td>
 <td>When she was released, JP blogs immediately gave her a S-tier farming rating due to good offensive self-buffs and 30% battery perfect for use with Merlin. This made her a versatile cavalry-killer who compared very favorably with AoE assassins at the time. Unfortunately, the Skadi meta arrives just one month later. SS looping completely deprecates 30% battery buster farming in both output and setup simplicity. Furthermore, all three AoE assassins (Cleo, Shuten, Semi), Okitan’s competitors, receive NP strengthenings in the next half year and Okitan’s output falls behind. Animations and very high card efficiency still make Okitan fun to use.</td>
-<td>Limited</td>
-<td>Guda 4</td>
+<td>Limited, Guda 4</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=212"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/S212Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -153,8 +153,8 @@ SoA</li>
 <td>AoE Archer</td>
 <td>30% battery, anti-divine SE, both charisma and party NP-up. Spookable.</td>
 <td>Decent but no need to particularly roll for. Compare with Gilgamesh. SE is anti-divine damage. Notable for unique party NP damage up. Will receive NP strengthening in late 2021.</td>
-<td>Spookable</td>
-<td>Lostbelt 2 Napoleon</td>
+<td>Spookable, Lostbelt 2 Napoleon</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=213"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/4/4a/S213Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -164,8 +164,8 @@ SoA</li>
 <td>ST Saber</td>
 <td>Anti-dragon crit saber</td>
 <td>Mostly unused. Compare with Rama. Low NP output outside of anti-dragon niche. 3-turn crit strength but needs external help with absorbing stars.</td>
-<td>Limited</td>
-<td>Lostbelt 2</td>
+<td>Limited, Lostbelt 2</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=214"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/9/90/S214Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -175,8 +175,8 @@ SoA</li>
 <td>AoE Lancer</td>
 <td>Top tier double Skadi farming lancer</td>
 <td>Usage is interchangeable with Parvati. Higher inherent refund than Parvati. Higher W2 output than Parvati but lower W3 output. (Parvati’s W3 output is tied to her 1-turn attack buff; Valk has higher output than Parvati when that attack-buff is not activated.) In practice, this tradeoff simply dictates where you use your two Skadi’s def-downs to get equivalent output. With Valk, you use two def-downs on W3. With Parv, you use one def-down on W2 and one def-down on W3.</td>
-<td>Spookable</td>
-<td>Lostbelt 2</td>
+<td>Spookable, Lostbelt 2</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=215"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/c/c1/Scathach-SkadiIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -186,8 +186,8 @@ SoA</li>
 <td>Support Caster</td>
 <td>Double Skadi. Skadi + Waver. SSW. SSBride. etc.</td>
 <td>Yeah.</td>
-<td>Limited</td>
-<td>Anniversary 2020</td>
+<td>Limited, Anniversary 2020</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=216"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/f/f4/S216Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -197,8 +197,8 @@ SoA</li>
 <td>AoE Archer</td>
 <td>SSR Arts Farming Looper (think SSR Mordred Rider) with 40% charisma for “good” teammates</td>
 <td>One of few servants in the game who can 3-turn 100% arts refund with just two supports - the other servant generally being Mordred Rider. Da Vinci Rider and Space Ishtar can also triple NP in specific instances with only two supports while universally doing so with three supports. Jarcher can alternatively double NP without any art support loop to clear W1 &amp; W2 and leave W3 for someone else while also buffing them with 40% charisma. Finds usage in event farming and Gilfest1 lotto farming before Tamamo and Nerobride strengthenings. Usage increases with Tamamo strengthening. After Bride strengthening, versatile “JArcher Farming System(s)” are born. Can be used for 2021 lotto farming as well. Like Mordred Rider, low base NP output necessitates very high NP levels for comfortable farming. Serves as an alternative to double Skadi System (or traditional buster setups) in appropriate situations.</td>
-<td>Limited</td>
-<td>Summer 2020 Part 1</td>
+<td>Limited, Summer 2020 Part 1</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=217"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/3/33/S217Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -208,8 +208,8 @@ SoA</li>
 <td>ST Lancer</td>
 <td>Standard ST Buster Crit Lancer</td>
 <td>Charisma, offensive self buffs. Star absorb + crit strength. Remove debuffs. Defense-ignoring NP generates 30 stars.</td>
-<td>Limited</td>
-<td>Summer 2020 Part 1</td>
+<td>Limited, Summer 2020 Part 1</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=218"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/e/e3/S218Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -219,8 +219,8 @@ SoA</li>
 <td>AoE Assassin</td>
 <td>40% battery AoE quick assassin</td>
 <td>Battery makes unit easy to use for standard play. Generally cannot 3-turn SS loop except for specific low-HP enemies free quests - in particular, certain nodes in Lost Belt 2.</td>
-<td>Limited</td>
-<td>Summer 2020 Part 1</td>
+<td>Limited, Summer 2020 Part 1</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=220"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/c/c7/S220Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -230,8 +230,8 @@ SoA</li>
 <td>AoE Moon Cancer</td>
 <td>Cardlock can be gameplay breaking for CQs. Has 50% batter but generally not used as DPS except for low HP trashmobs.</td>
 <td>Locks facecard choices for 3-turns unless some servant dies or gets swapped. This mechanic is inevitably gamebreaking due to ability to allow for your main DPS to brave chain for 3-turns. NPBB, NPAA, NPQQ repeatedly, etc. for NP looping versus break bars. Surprisingly not used often in esports because you can afford to reset game until you get the desired facecards and don’t want to waste a spot in your lineup on a non-buffing support. Can also be used as a neutral damage AoE DPS for low-HP enemies (think W1 or W2) due to her 50% battery.</td>
-<td>Limited</td>
-<td>Summer 2020 Part 2</td>
+<td>Limited, Summer 2020 Part 2</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=221"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/a/a0/S221Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -241,8 +241,8 @@ SoA</li>
 <td>ST Saber</td>
 <td>Gimmick hybrid support saber</td>
 <td>Kit is designed for hybrid supporting. The goal is to spam the ST NP which provides stacking RNG defense-down. Charisma, party crit-up, enemy arts-down, stars/turn, self gauge/turn. Low NP output.</td>
-<td>Limited</td>
-<td>Summer 2020 Part 2</td>
+<td>Limited, Summer 2020 Part 2</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=222"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/7/70/S222Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -252,8 +252,8 @@ SoA</li>
 <td>ST Foreigner</td>
 <td>ST 1-Turn Burst DPS Foreigner</td>
 <td>Unlike Abby, who is mainly used as a support, MHXX is a DPS-only ST foreigner with 30% battery. 1-turn 50% attack up, self-invic, instinct, ignore invic, powermod vs “threats to humanity” (other foreigners, mecha liz, enemy Summer BB). NP 150% SE vs Saber-class servants. Used mainly when you just want to have some fun with NP + facecards since it’s essentially impossible to find appropriate targets for her powermod. Hilariously high theoretical output when both facing saber or berserker class “threat to humanity” (basically only Hokusai Saber).</td>
-<td>Limited</td>
-<td>Summer 2020 Part 2</td>
+<td>Limited, Summer 2020 Part 2</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=223"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/3/36/S223Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -263,8 +263,8 @@ SoA</li>
 <td>ST Saber</td>
 <td>decent ST Quick Saber for boss fights</td>
 <td>1-turn evade, quick up, instinct. 3-turn star absorb, atk and def up. NP removes defense buffs and might instakill.</td>
-<td>Spookable</td>
-<td>Fate/Zero Rerun</td>
+<td>Spookable, Fate/Zero Rerun</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=224"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/S224Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -274,8 +274,8 @@ SoA</li>
 <td>ST Alter Ego</td>
 <td>arts ST Alter Ego for cavalry boss fights</td>
 <td>Kit for boss fights with invicibility, damage cut, 3-turn arts up, debuff immunity, stars per turn, 30% battery. Aims to fire NP multiple times from Arts NP and facecards. NP reduces enemy defense and crit chance. 80% RNG self-buff requires buff-success support or gimmick-pairing with Chloe. ST servants are unfortunately rarely used in the meta even for bosses.</td>
-<td>Story Locked</td>
-<td>Halloween 2020</td>
+<td>Story Locked, Halloween 2020</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=226"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/9/91/S226Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -285,8 +285,8 @@ SoA</li>
 <td>AoE Berserker</td>
 <td>std AoE berserker</td>
 <td>Generates stars and can increase crit strength by 100% but cannot absorb stars by himself. Notably can ignore invicibility for 3-turns. Buster + quick up for 3-turns. Cannot SS loop.</td>
-<td>Spookable</td>
-<td>Lostbelt 3 Part 1</td>
+<td>Spookable, Lostbelt 3 Part 1</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=227"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/2/22/S227Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -296,8 +296,8 @@ SoA</li>
 <td>Support Saber</td>
 <td>Arts support saber. Great boss fight support. Good support for 3-turn arts looping in future meta.</td>
 <td>Charisma. Targeted 20% battery that also boosts buff success chance. Party arts-up, crit-up, star-gen up. Essentially a Caster Gilgamesh that doesn’t do DPS but is more focused on buffing others. Non-damaging NP further increases party attack and reduces enemy gauge. Very strong for budget players. For whales, notably can sometimes be used as support for 3-turn farming arts looping.</td>
-<td>Spookable</td>
-<td>Lostbelt 3 Part 1</td>
+<td>Spookable, Lostbelt 3 Part 1</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=228"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/5/5a/S228Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -307,8 +307,8 @@ SoA</li>
 <td>Facecard Saber</td>
 <td>Soloer. Non-damaging NP has pretty animation and a billion effects.</td>
 <td>NP does not do damage but has <em>numerous</em> effects used for boss fights: def down on attack, buff removal on crit, crit down on taking damage, attack up, heal, etc. Skills give tricolor cardmod, star absorption, debuff immunity, guts, 20% battery. The goal is to continuously NP brave chain facecard and to keep stacking NP’s effects. Often used as soloer. For fun.</td>
-<td>Spookable</td>
-<td>Lostbelt 3 Part 1</td>
+<td>Spookable, Lostbelt 3 Part 1</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=229"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/e/e5/S229Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -318,8 +318,8 @@ SoA</li>
 <td>Ruler</td>
 <td>Overpowered gameplay breaking soloer or tank.</td>
 <td>Defacto strongest soloer in game. Easily beats almost all CQs by himself. Don’t need your own and can just borrow someone elses. NP1 sufficient. Reduces enemy gauge and defense, stuns enemy. 50% battery, removes debuffs, heals. Non-damaging NP grants invicibility, taunt, crit damage and star absorption.</td>
-<td>Limited</td>
-<td>Lostbelt 3 Part 2</td>
+<td>Limited, Lostbelt 3 Part 2</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=230"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/0/0a/S230Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -329,8 +329,8 @@ SoA</li>
 <td>AoE Assassin</td>
 <td>Infamously regarded as weak but waifu. Important character in story.</td>
 <td>27% battery and also 10% gauge per turn. AoE NP removes her own buff and debuffs. Therefore NP must be timed with her 2nd skill which prevents buff removal at rank 10. Mediocre NP output.</td>
-<td>Story Locked</td>
-<td>Lostbelt 3 Part 2</td>
+<td>Story Locked, Lostbelt 3 Part 2</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=230"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/S232Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
@@ -340,8 +340,8 @@ SoA</li>
 <td>AoE Lancer</td>
 <td>Can usually loop with SS but not always. Panty shot.</td>
 <td>While her NP output is higher than Parvati/Valk, Bradamante suffers from borderline SS NP refund. Unlike Valkyrie and Parvati who have inherently high NP refund, players might find that Brad-SS fails at lower NP levels when enemies have moderate to high HP. The 3-turn loop is highly dependent on 20% battery, proper mystic code choice, overkill hits. The 20% battery, interestingly, is targetable and also removes debuffs. Can be used for CQs due to defense up, guts, and RNG stun.</td>
-<td>Spookable</td>
-<td>Christmas 2020</td>
+<td>Spookable, Christmas 2020</td>
+<td></td>
 </tr>
 </tbody>
 </table>
