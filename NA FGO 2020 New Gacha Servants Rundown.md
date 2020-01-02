@@ -311,8 +311,8 @@
 <td></td>
 <td>Quick</td>
 <td>AoE Lancer</td>
-<td>Can usually loop with SS but not reliably. Panty shot.</td>
-<td>While her NP output is higher than Parvati/Valk, Bradamante suffers from very borderline NP refund. Unlike Valkyrie and Parvati who have inherently high NP refund, players will often find that Brad-SS fails at lower NP levels when enemies are moderately high-HP. The 3-turn loop is highly dependent on 20% battery, proper mystic code choice, overkill hits. The 20% battery, interestingly, is targetable and also removes debuffs. Can be used for CQs due to defense up, guts, and RNG stun.</td>
+<td>Can usually loop with SS but not always. Panty shot.</td>
+<td>While her NP output is higher than Parvati/Valk, Bradamante suffers from borderline SS NP refund. Unlike Valkyrie and Parvati who have inherently high NP refund, players might find that Brad-SS fails at lower NP levels when enemies have moderate to high HP. The 3-turn loop is highly dependent on 20% battery, proper mystic code choice, overkill hits. The 20% battery, interestingly, is targetable and also removes debuffs. Can be used for CQs due to defense up, guts, and RNG stun.</td>
 <td>Spookable</td>
 </tr>
 </tbody>
