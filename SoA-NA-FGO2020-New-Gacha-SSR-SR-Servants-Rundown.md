@@ -230,7 +230,7 @@ SoA</li>
 <td>Arts</td>
 <td>ST Alter Ego</td>
 <td>arts ST Alter Ego for cavalry boss fights</td>
-<td>Kit for boss fights with invicibility, damage cut, 3-turn arts up, debuff immunity, stars per turn, 30% battery. Aims to fire NP multiple times from Arts NP and facecards. NP reduces enemy defense and crit chance. 80% RNG self-buff requires buff-success support or gimmick-pairing with Chloe. ST servants are unfortunately rarely used in the meta even for bosses.</td>
+<td>Kit for boss fights with invicibility, damage cut, 3-turn arts up, debuff immunity, stars per turn, 30% battery. Aims to fire NP multiple times from Arts NP and facecards. NP reduces enemy defense and crit chance. 80% RNG self-buff requires buff-success support or gimmick-pairing with Chloe. Arts ST DPS are unfortunately rarely used in the meta even for bosses due to availability of SS.</td>
 <td>Story Locked, Halloween 2020</td>
 </tr>
 <tr>
