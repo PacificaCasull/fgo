@@ -36,7 +36,6 @@ SoA</li>
 <tr>
 <th>Icon</th>
 <th>Servant</th>
-<th>SR?</th>
 <th>NP Type</th>
 <th>Type</th>
 <th>TLDR</th>
@@ -48,7 +47,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=198"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/4/4c/Icon_Servant_198.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Hokusai</td>
-<td></td>
 <td>Arts</td>
 <td>AoE Foreigner</td>
 <td>Default challenge quest arts-team AoE DPS for the next two years.</td>
@@ -58,7 +56,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=199"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/5/5f/Icon_Servant_199.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Semiramis</td>
-<td></td>
 <td>Buster</td>
 <td>AoE Assassin</td>
 <td>Well-balanced AoE assassin. Low NP output until NP strengthening in one year.</td>
@@ -67,8 +64,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=200"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/Icon_Servant_200.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Fujino</td>
-<td>SR</td>
+<td>Fujino (SR)</td>
 <td>Buster</td>
 <td>ST Archer</td>
 <td>Doesn’t have a second banner yet.</td>
@@ -78,7 +74,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=201"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/AnastasiaIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Anastasia</td>
-<td></td>
 <td>Arts</td>
 <td>AoE Caster</td>
 <td>Archetypical Arts caster looper. Non-limited, will spook.</td>
@@ -87,8 +82,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=202"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/5/51/AtalantaAlterIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Zerkerlante</td>
-<td>SR</td>
+<td>Zerkerlante (SR)</td>
 <td>Quick</td>
 <td>ST Berserker</td>
 <td>1-Turn NP + self-sufficient crit carder + party quick support</td>
@@ -98,7 +92,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=205"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/3/31/IvanIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Ivan</td>
-<td></td>
 <td>Buster</td>
 <td>AoE Rider</td>
 <td>CQ focused AoE Rider</td>
@@ -108,7 +101,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=206"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/3/38/AchillesIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Achilles</td>
-<td></td>
 <td>Quick</td>
 <td>AoE Rider</td>
 <td>Versatile double Skadi Rider. Spookable.</td>
@@ -117,8 +109,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=206"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/1/17/ChironIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Chiron</td>
-<td>SR</td>
+<td>Chiron (SR)</td>
 <td>Arts</td>
 <td>ST Archer</td>
 <td>Important support for CQ esports. Not relevant otherwise.</td>
@@ -128,7 +119,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=209"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/e/e7/Icon_S209.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Okita Alter</td>
-<td></td>
 <td>Buster</td>
 <td>AoE Alter Ego</td>
 <td>Straightforward buster AoE 30% battery farmer with great facecard efficiency who falls very hard victim to Skadi meta.</td>
@@ -138,7 +128,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=212"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/S212Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Napoleon</td>
-<td></td>
 <td>Buster</td>
 <td>AoE Archer</td>
 <td>30% battery, anti-divine SE, both charisma and party NP-up. Spookable.</td>
@@ -148,7 +137,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=213"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/4/4a/S213Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Sigurd</td>
-<td></td>
 <td>Buster</td>
 <td>ST Saber</td>
 <td>Anti-dragon crit saber</td>
@@ -157,8 +145,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=214"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/9/90/S214Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Valkyrie</td>
-<td>SR</td>
+<td>Valkyrie (SR)</td>
 <td>Quick</td>
 <td>AoE Lancer</td>
 <td>Top tier double Skadi farming lancer</td>
@@ -168,7 +155,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=215"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/c/c1/Scathach-SkadiIcon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Skadi</td>
-<td></td>
 <td>-</td>
 <td>Support Caster</td>
 <td>Double Skadi. Skadi + Waver. SSW. SSBride. etc.</td>
@@ -178,7 +164,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=216"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/f/f4/S216Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Jeanne Archer</td>
-<td></td>
 <td>Arts</td>
 <td>AoE Archer</td>
 <td>SSR Arts Farming Looper (think SSR Mordred Rider) with 40% charisma for “good” teammates</td>
@@ -187,8 +172,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=217"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/3/33/S217Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Ibaraki Lancer</td>
-<td>SR</td>
+<td>Ibaraki Lancer (SR)</td>
 <td>Buster</td>
 <td>ST Lancer</td>
 <td>Standard ST Buster Crit Lancer</td>
@@ -197,8 +181,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=218"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/e/e3/S218Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Ushi Assassin</td>
-<td>SR</td>
+<td>Ushi Assassin (SR)</td>
 <td>Quick</td>
 <td>AoE Assassin</td>
 <td>40% battery AoE quick assassin</td>
@@ -208,7 +191,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=220"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/c/c7/S220Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Summer BB</td>
-<td></td>
 <td>Buster</td>
 <td>AoE Moon Cancer</td>
 <td>Cardlock can be gameplay breaking for CQs. Has 50% batter but generally not used as DPS except for low HP trashmobs.</td>
@@ -217,8 +199,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=221"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/a/a0/S221Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Medb Saber</td>
-<td>SR</td>
+<td>Medb Saber (SR)</td>
 <td>Arts</td>
 <td>ST Saber</td>
 <td>Gimmick hybrid support saber</td>
@@ -227,8 +208,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=222"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/7/70/S222Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>MHXX</td>
-<td>SR</td>
+<td>MHXX (SR)</td>
 <td>Arts</td>
 <td>ST Foreigner</td>
 <td>ST 1-Turn Burst DPS Foreigner</td>
@@ -237,8 +217,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=223"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/3/36/S223Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Diarmuid Saber</td>
-<td>SR</td>
+<td>Diarmuid Saber (SR)</td>
 <td>Quick</td>
 <td>ST Saber</td>
 <td>decent ST Quick Saber for boss fights</td>
@@ -248,7 +227,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=224"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/S224Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Sitonai</td>
-<td></td>
 <td>Arts</td>
 <td>ST Alter Ego</td>
 <td>arts ST Alter Ego for cavalry boss fights</td>
@@ -258,7 +236,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=226"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/9/91/S226Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Xiang Yu</td>
-<td></td>
 <td>Quick</td>
 <td>AoE Berserker</td>
 <td>std AoE berserker</td>
@@ -267,8 +244,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=227"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/2/22/S227Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Lanling</td>
-<td>SR</td>
+<td>Lanling (SR)</td>
 <td>-</td>
 <td>Support Saber</td>
 <td>Arts support saber. Great boss fight support. Good support for 3-turn arts looping in future meta.</td>
@@ -277,8 +253,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=228"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/5/5a/S228Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Liangyu</td>
-<td>SR</td>
+<td>Liangyu (SR)</td>
 <td>-</td>
 <td>Facecard Saber</td>
 <td>Soloer. Non-damaging NP has pretty animation and a billion effects.</td>
@@ -288,7 +263,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=229"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/e/e5/S229Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>First Emperor</td>
-<td></td>
 <td>-</td>
 <td>Ruler</td>
 <td>Overpowered gameplay breaking soloer or tank.</td>
@@ -297,8 +271,7 @@ SoA</li>
 </tr>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=230"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/0/0a/S230Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
-<td>Yu Miaoyi</td>
-<td>SR</td>
+<td>Yu Miaoyi (SR)</td>
 <td>Buster</td>
 <td>AoE Assassin</td>
 <td>Infamously regarded as weak but waifu. Important character in story.</td>
@@ -308,7 +281,6 @@ SoA</li>
 <tr>
 <td><a href="http://fate-go.cirnopedia.org/servant_profile.php?servant=230"><img src="https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/S232Icon.png/revision/latest/scale-to-width-down/150" alt=""></a></td>
 <td>Bradamante</td>
-<td></td>
 <td>Quick</td>
 <td>AoE Lancer</td>
 <td>Can usually loop with SS but not always. Panty shot.</td>
