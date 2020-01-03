@@ -86,7 +86,7 @@ SoA</li>
 <td>Quick</td>
 <td>ST Berserker</td>
 <td>1-Turn NP + self-sufficient crit carder + party quick support</td>
-<td>Similar to archer Atalante in having a party-wide 1-turn 50% quick up. Instinct with crit absorb and crit strength together in one kit. Unlike MHX, Melt, Okita, MHXA, etc., generally not known to SS loop even with facecards.</td>
+<td>Similar to archer Atalante in having a party-wide 1-turn 50% quick up. Instinct with crit absorb and crit strength together in one kit. Unlike MHX, Melt, Okita, MHXA, etc., generally not known to SS NP loop even with facecards.</td>
 <td>Spookable, Lostbelt 1 Banner 1</td>
 </tr>
 <tr>
