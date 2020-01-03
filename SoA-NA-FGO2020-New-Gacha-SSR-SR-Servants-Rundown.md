@@ -95,7 +95,7 @@ SoA</li>
 <td>Buster</td>
 <td>AoE Rider</td>
 <td>CQ focused AoE Rider</td>
-<td>Strong skills on paper for standard CQ play in NP gain, debuff removal, stars/turn, invincibility, enemy buff removal, enemy attack down, 3-turn buster-up, etc. Unfortunately lack of party buffs and battery makes him a poor candidate for both farming as well as CQ min-turns.</td>
+<td>Strong skills on paper for standard buster CQ play in NP gain, debuff removal, stars/turn, invincibility, enemy buff removal, enemy attack down, 3-turn buster-up, etc. Unfortunately lack of party buffs and battery makes him a poor candidate for both farming as well as CQ min-turns.</td>
 <td>Limited, Lostbelt 1 Banner 2</td>
 </tr>
 <tr>
