@@ -77,7 +77,7 @@ SoA</li>
 <td>Arts</td>
 <td>AoE Caster</td>
 <td>Archetypical Arts caster looper. Non-limited, will spook.</td>
-<td>A greatly improved Da Vinci caster. 50% battery. Good 3-turn NP refund loop farming with proper team setup. Party charisma, invicibility pierce, unique self arts-up. Enemy attack down, skill seal, stun. No imperative need to roll hard for due to non-limited status and upcoming SS focused meta. Toptier non-limited spookable servant.</td>
+<td>A greatly improved Da Vinci caster. 50% battery. Good 3-turn NP refund loop farming with proper team setup. Party charisma, invincibility pierce, unique self arts-up. Enemy attack down, skill seal, stun. No imperative need to roll hard for due to non-limited status and upcoming SS focused meta. Toptier non-limited spookable servant.</td>
 <td>Spookable, Lostbelt 1 Banner 1</td>
 </tr>
 <tr>
