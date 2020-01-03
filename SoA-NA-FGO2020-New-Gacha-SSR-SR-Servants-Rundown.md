@@ -104,7 +104,7 @@ SoA</li>
 <td>Quick</td>
 <td>AoE Rider</td>
 <td>Versatile double Skadi Rider. Spookable.</td>
-<td>Well designed kit with versatile skills. 3-turn quick and crit str buffs, invicibility, defense-up, taunt, 30% battery. A popular double Skadi looper for farming, but refund is very tight. Looping is totally dependent on the battery / mystic code and may sometimes fail. Quite dominant in CQs.</td>
+<td>Well designed kit with versatile skills. 3-turn quick and crit str buffs, invincibility, defense-up, taunt, 30% battery. A popular double Skadi looper for farming, but refund is very tight. Looping is totally dependent on the battery / mystic code and may sometimes fail. Quite dominant in CQs.</td>
 <td>Spookable, Apocrypha</td>
 </tr>
 <tr>
