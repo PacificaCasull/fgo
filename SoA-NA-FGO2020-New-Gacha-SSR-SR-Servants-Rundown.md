@@ -176,7 +176,7 @@ SoA</li>
 <td>Buster</td>
 <td>ST Lancer</td>
 <td>Standard ST Buster Crit Lancer</td>
-<td>Well balanced kit for budget players. Charisma, offensive self buffs. Star absorb + crit strength. Remove debuffs. Defense-ignoring NP generates 30 stars.</td>
+<td>Well balanced kit. Charisma, offensive self buffs. Star absorb + crit strength. Remove debuffs. Defense-ignoring NP generates 30 stars.</td>
 <td>Limited, Summer 2020 Part 1</td>
 </tr>
 <tr>
