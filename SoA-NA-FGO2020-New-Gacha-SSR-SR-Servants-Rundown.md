@@ -131,7 +131,7 @@ SoA</li>
 <td>Buster</td>
 <td>AoE Archer</td>
 <td>30% battery, anti-divine SE, both charisma and party NP-up. Spookable.</td>
-<td>Decent but no need to particularly roll for. Compare with Gilgamesh. SE is anti-divine damage. Notable for unique party NP damage up. Will receive NP strengthening in late 2021.</td>
+<td>Decent but no need to particularly roll for. Compare with Gilgamesh. SE is anti-divine damage. Notable for having both charisma and unique party NP damage up. Will receive NP strengthening in late 2021.</td>
 <td>Spookable, Lostbelt 2 Napoleon</td>
 </tr>
 <tr>
