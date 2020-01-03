@@ -59,7 +59,7 @@ SoA</li>
 <td>Buster</td>
 <td>AoE Assassin</td>
 <td>Well-balanced AoE assassin. Low NP output until NP strengthening in one year.</td>
-<td>Buster NP and 30% battery fit with Merlin for farming. Strong hybrid defensive team kit similar in a way to Ereshkigal. Decent NP gain, stargen, facecards. Triple Arts caster deck makes her a candidate for “buster loop” memes. Second skill makes her neutral versus casters (takes neutral damage, does neutral damage), which makes her versatile for working through multi-class AoE CQs without worrying about class weakness. NP output is disappointing until strengthening in 2021, which makes it acceptable. Still obviously much weaker than Shuten for 3-turn farming even after strengthening. Better than Shuten in other environments. Generally favored over Cleopatra except for facecard efficiency. Battery requires 8 crit stars, but requirement is usually easy to fulfill.</td>
+<td>Buster NP and 30% battery fit with Merlin for farming. Strong hybrid defensive team kit similar in a way to Ereshkigal. Decent NP gain, stargen, facecards. Triple Arts caster deck makes her a candidate for “buster loop” memes. Second skill makes her neutral versus casters (takes neutral damage, does neutral damage), which makes her versatile for working through multi-class AoE CQs without worrying about class weakness. NP output is disappointing until strengthening in 2021, which makes it acceptable. Still much weaker than Shuten for 3-turn farming even after strengthening. Better than Shuten in other environments. Generally favored over Cleopatra except for facecard efficiency. Battery requires 8 crit stars, but requirement is usually easy to fulfill.</td>
 <td>Limited, Valentines 2020</td>
 </tr>
 <tr>
