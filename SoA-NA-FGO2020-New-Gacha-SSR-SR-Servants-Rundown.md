@@ -194,7 +194,7 @@ SoA</li>
 <td>Buster</td>
 <td>AoE Moon Cancer</td>
 <td>Cardlock can be gameplay breaking for CQs. Has 50% battery but usually not used as DPS except for low HP trashmobs.</td>
-<td>Locks facecard choices for 3-turns unless some servant dies or gets swapped. This mechanic is inevitably gamebreaking due to ability to allow for your main DPS to brave chain for 3-turns. NPBB, NPAA, NPQQ repeatedly, etc. for NP looping versus break bars. Surprisingly not used often in esports because you can afford to reset game until you get the desired facecards and don’t want to waste a spot in your lineup on a non-buffing support. Can also be used as a neutral damage AoE DPS for low-HP enemies (think W1 or W2) due to her 50% battery.</td>
+<td>Locks facecard choices for 3-turns unless some servant dies or gets swapped. This mechanic is inevitably gamebreaking due to ability to allow your main DPS to brave chain for 3-turns. NPBB, NPAA, NPQQ repeatedly, etc. for NP looping versus break bars. Surprisingly not used often in esports because you can afford to reset game until you get the desired facecards and don’t want to waste a spot in your lineup on a non-buffing support. Can also be used as a neutral damage AoE DPS for low-HP enemies (think W1 or W2) due to her 50% battery.</td>
 <td>Limited, Summer 2020 Part 2</td>
 </tr>
 <tr>
