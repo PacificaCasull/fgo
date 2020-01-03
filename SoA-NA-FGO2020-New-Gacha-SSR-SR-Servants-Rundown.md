@@ -275,7 +275,7 @@ SoA</li>
 <td>Buster</td>
 <td>AoE Assassin</td>
 <td>Infamously regarded as weak but waifu. Important character in story.</td>
-<td>27% battery and also 10% gauge per turn. AoE NP removes her own buff and debuffs. Therefore NP must be timed with her 2nd skill which prevents buff removal at rank 10. Mediocre NP output.</td>
+<td>27% battery and also 10% gauge per turn. AoE NP removes her buffs and debuffs. Therefore NP must be timed with her 2nd skill which prevents buff removal at rank 10. Mediocre NP output.</td>
 <td>Story Locked, Lostbelt 3 Part 2</td>
 </tr>
 <tr>
